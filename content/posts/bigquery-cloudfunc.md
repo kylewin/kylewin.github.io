@@ -1,5 +1,5 @@
 ---
-title: "Content Placeholder"
+title: "BigQuery and CloudFunction"
 _build:
   render: never
   list: never
