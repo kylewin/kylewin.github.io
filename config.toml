@@ -201,12 +201,12 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
 
   # Social config about the author
   [params.social]
-    GitHub = "xxxx"
-    Linkedin = ""
-    Twitter = "xxxx"
-    Instagram = "xxxx"
-    Facebook = "xxxx"
-    Telegram = "xxxx"
+    GitHub = "kylewin"
+    Linkedin = "thunguyenviet"
+    #Twitter = "xxxx"
+    #Instagram = "xxxx"
+    #Facebook = "xxxx"
+    Telegram = "kylenova"
     Medium = ""
     Gitlab = ""
     Youtubelegacy = ""
@@ -274,8 +274,8 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
     HackTheBox = ""
     RootMe= ""
     Phone = ""
-    Email = "xxxx@xxxx.com"
-    RSS = true # LoveIt NEW | 0.2.0
+    Email = "nvietthu@gmail.com"
+    RSS = false # LoveIt NEW | 0.2.0
 
   # LoveIt CHANGED | 0.2.0 Page global config
   [params.page]
