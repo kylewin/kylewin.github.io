@@ -98,7 +98,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
 
   # Footer config
   [params.footer]
-    enable = true
+    enable = false
     # LoveIt NEW | 0.2.0 Custom content (HTML format is supported)
     custom = ''
     # LoveIt NEW | 0.2.0 whether to show Hugo and theme info
