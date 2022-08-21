@@ -61,4 +61,4 @@ Disallow: /
 User-agent: ZoominfoBot
 Disallow: /
 
-Sitemap: https://kylenguyen.github.io/sitemap.xml
+Sitemap: https://kylewin.github.io/sitemap.xml
