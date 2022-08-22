@@ -181,7 +181,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
       # URL of avatar shown in home page
       avatarURL = "/images/avatar.jpg"
       # LoveIt CHANGED | 0.2.7 title shown in home page (HTML format is supported)
-      title = ""
+      title = "Kyle Nguyen"
       # subtitle shown in home page (HTML format is supported)
       subtitle = "Your Ops engineer"
       # whether to use typeit animation for subtitle
@@ -286,7 +286,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
     # LoveIt NEW | 0.2.0 whether to enable twemoji
     twemoji = false
     # whether to enable lightgallery
-    lightgallery = false
+    lightgallery = true
     # LoveIt NEW | 0.2.0 whether to enable the ruby extended syntax
     ruby = true
     # LoveIt NEW | 0.2.0 whether to enable the fraction extended syntax
@@ -300,7 +300,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
     # LoveIt NEW | 0.2.0 Table of the contents config
     [params.page.toc]
       # whether to enable the table of the contents
-      enable = true
+      enable = false
       # LoveIt NEW | 0.2.9 whether to keep the static table of the contents in front of the post
       keepStatic = true
       # whether to make the table of the contents in the sidebar automatically collapsed
@@ -342,7 +342,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
       fullscreen = true
     # LoveIt CHANGED | 0.2.0 social share links in post page
     [params.page.share]
-      enable = true
+      enable = false
       Twitter = true
       Facebook = true
       Linkedin = false
