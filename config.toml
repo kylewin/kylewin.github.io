@@ -45,14 +45,6 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
     title = ""
   [[menu.main]]
     weight = 2
-    identifier = "mycv"
-    pre = ""
-    post = ""
-    name = "MyCV"
-    url = "/mycv/"
-    title = ""
-  [[menu.main]]
-    weight = 3
     identifier = "about"
     pre = ""
     post = ""
