@@ -5,3 +5,7 @@ draft: false
 ---
 
 # How I implement SRE Monitoring
+
+# Google SRE Book Golden metrics
+
+# Alerting with both Slow and Fast window
