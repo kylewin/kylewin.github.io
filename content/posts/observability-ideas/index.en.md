@@ -18,8 +18,9 @@ Some ideas in Observability that can help Business thrive.
 - Mean time to recover
 - Deployment Frequency
 - Change failure rate
+A dashboard to visualize those.
 
-![devops metrics](image.png)
+![devops metrics](image.png "DevOps metrics")
 
 ## Google SRE SLOs
 - Availability
