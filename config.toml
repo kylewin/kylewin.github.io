@@ -51,6 +51,14 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
     name = "About"
     url = "/about/"
     title = ""
+  [[menu.main]]
+    weight = 6
+    identifier = "github"
+    pre = "<i class='fab fa-github fa-fw' aria-hidden='true'></i>"
+    post = ""
+    name = ""
+    url = "https://github.com/kylewin/kylewin.github.io"
+    title = "GitHub"
 
 [params]
   # site default theme ["auto", "light", "dark"]
