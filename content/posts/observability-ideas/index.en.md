@@ -6,7 +6,6 @@ description: "Some ideas in Observability that can help Business thrive."
 resources:
 - name: "featured-image"
   src: "featured-image.png"
-lightgallery: true
 ---
 
 Some ideas in Observability that can help Business thrive.
@@ -30,7 +29,7 @@ A dashboard to visualize those.
 
 
 
-![sreslos](image1.png "Google SRE SLOs")
+![sreslos](image-1.png "Google SRE SLOs")
 
 ## Nginx gateway
 - Top countries
@@ -39,10 +38,10 @@ A dashboard to visualize those.
 - RED framework [RED](https://www.weave.works/blog/the-red-method-key-metrics-for-microservices-architecture/)
 
 
-![nginxgw](image2.png "Nginx Logs visualization")
+![nginxgw](image-2.png "Nginx Logs visualization")
 
 ## Infrastructure metrics
 - USE framework [USE](https://www.brendangregg.com/usemethod.html)
 
 
-![use](image3.png "Dashboard implement USE framework")
+![use](image-3.png "Dashboard implement USE framework")
