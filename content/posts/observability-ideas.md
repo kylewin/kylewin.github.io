@@ -4,4 +4,28 @@ date: 2023-09-01T15:30:12+07:00
 draft: false
 ---
 
-# Insights that Observability can give
+Some ideas in Observability that can help Business thrive
+
+## DevOps metrics
+- Lead time for changes
+- Mean time to recover
+- Deployment Frequency
+- Change failure rate
+![Alt text](image.png)
+
+## Google SRE SLOs
+- Availability
+- Pxx Latency
+- Error budget
+![Alt text](image-1.png)
+
+## Nginx gateway
+- Top countries
+- Top cities
+- Top paths
+- RED framework (https://www.weave.works/blog/the-red-method-key-metrics-for-microservices-architecture/)
+![Alt text](image-2.png)
+
+## Infrastructure metrics
+- USE framework (https://www.brendangregg.com/usemethod.html)
+![Alt text](image-3.png)
