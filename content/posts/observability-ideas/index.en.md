@@ -12,6 +12,8 @@ Some ideas in Observability that can help Business thrive
 - Deployment Frequency
 - Change failure rate
 
+![devops metrics](image.png)
+
 ## Google SRE SLOs
 - Availability
 - Pxx Latency
