@@ -11,6 +11,7 @@ resources:
 Some ideas in Observability that can help Business thrive.
 
 
+
 ## DevOps metrics
 - Lead time for changes
 - Mean time to recover
