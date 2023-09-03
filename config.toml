@@ -149,7 +149,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
 
   # LoveIt NEW | 0.2.0 Search config
   [params.search]
-    enable = false
+    enable = true
     # type of search engine ["lunr", "algolia"]
     type = "algolia"
     # max index length of the chunked content
@@ -165,9 +165,9 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
     # LoveIt NEW | 0.2.4 whether to use the absolute URL based on the baseURL in search index
     absoluteURL = false
     [params.search.algolia]
-      index = ""
-      appID = ""
-      searchKey = ""
+      index = "index.en"
+      appID = "DTBFV3VTGQ"
+      searchKey = "8e8150ef0129e0d1b8d0614be773af03"
 
   # Home page config
   [params.home]
