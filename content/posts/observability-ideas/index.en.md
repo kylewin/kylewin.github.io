@@ -28,11 +28,21 @@ A dashboard to visualize those.
 - Pxx Latency
 - Error budget
 
+
+
+![sreslos](image1.png "Google SRE SLOs")
+
 ## Nginx gateway
 - Top countries
 - Top cities
 - Top paths
 - RED framework [RED](https://www.weave.works/blog/the-red-method-key-metrics-for-microservices-architecture/)
 
+
+![nginxgw](image2.png "Nginx Logs visualization")
+
 ## Infrastructure metrics
 - USE framework [USE](https://www.brendangregg.com/usemethod.html)
+
+
+![use](image3.png "Dashboard implement USE framework")
