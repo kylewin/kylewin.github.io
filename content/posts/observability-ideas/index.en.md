@@ -2,12 +2,16 @@
 title: "Observability Ideas"
 date: 2023-09-01T15:30:12+07:00
 draft: false
+description: "Some ideas in Observability that can help Business thrive."
 resources:
 - name: "featured-image"
   src: "featured-image.png"
+lightgallery: true
 ---
 
-Some ideas in Observability that can help Business thrive
+Some ideas in Observability that can help Business thrive.
+
+<!--more-->
 
 ## DevOps metrics
 - Lead time for changes
