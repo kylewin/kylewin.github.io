@@ -5,10 +5,11 @@ draft: false
 description: "A list of Prometheus metrics to visualize its performance."
 resources:
 - name: "featured-image"
-  src: "featured-image.jpg"
+  src: "featured-image.png"
 ---
 
 A list of Prometheus metrics to visualize its performance.
+
 
 ## Engine Query
 
