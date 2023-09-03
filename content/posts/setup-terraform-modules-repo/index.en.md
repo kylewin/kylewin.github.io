@@ -2,7 +2,7 @@
 title: "Setup a Terraform Module repository"
 date: 2023-09-03T16:37:29+07:00
 draft: false
-description: "Setup a Terraform Module repository"
+description: "Setup a Terraform Module repository."
 resources:
 - name: "featured-image"
   src: "featured-image.png"
