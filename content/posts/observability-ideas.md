@@ -11,21 +11,25 @@ Some ideas in Observability that can help Business thrive
 - Mean time to recover
 - Deployment Frequency
 - Change failure rate
-![Alt text](image.png)
+
+![Alt text](/images/observability-ideas/image.png)
 
 ## Google SRE SLOs
 - Availability
 - Pxx Latency
 - Error budget
-![Alt text](image-1.png)
+
+![Alt text](/images/observability-ideas/image-1.png)
 
 ## Nginx gateway
 - Top countries
 - Top cities
 - Top paths
 - RED framework (https://www.weave.works/blog/the-red-method-key-metrics-for-microservices-architecture/)
-![Alt text](image-2.png)
+
+![Alt text](/images/observability-ideas/image-2.png)
 
 ## Infrastructure metrics
 - USE framework (https://www.brendangregg.com/usemethod.html)
-![Alt text](image-3.png)
+
+![Alt text](/images/observability-ideas/image-3.png)
