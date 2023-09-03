@@ -502,3 +502,6 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
   # LoveIt NEW | 0.2.0 Analytics config
   [params.analytics]
     enable = false
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
