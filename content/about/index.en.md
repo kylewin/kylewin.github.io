@@ -18,3 +18,14 @@ I'm living in Saigon, Vietnam as an Ops Engineer and a father to a son. :heart:
 
 I treat your Apps and your Cloud Infrastructure as adorable pets who probably need meticulous care all the time.
 
+## I'm into these Techs
+- Linux
+- Kubernetes
+- Prometheus
+- Terraform
+- Python
+- Golang
+- AWS and GCP
+
+
+:rocket: :rocket: :rocket:
