@@ -10,7 +10,9 @@ Some ideas in Observability that can help Business thrive
 - Lead time for changes
 - Mean time to recover
 - Deployment Frequency
-- Change failure rate![devopsmetrics](/images/observability-ideas/image.png)
+- Change failure rate
+
+![devopsmetrics](/images/observability-ideas/image.png)
 
 ## Google SRE SLOs
 - Availability
