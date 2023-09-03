@@ -10,7 +10,7 @@ resources:
 
 Implement Google SRE book monitoring practices.
 
-
+<!--more-->
 
 ## Google SRE Book Golden metrics
 
