@@ -90,11 +90,11 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
 
   # Footer config
   [params.footer]
-    enable = false
+    enable = true
     # LoveIt NEW | 0.2.0 Custom content (HTML format is supported)
-    custom = ''
+    custom = 'Kyle Nguyen in Saigon - Vietnam'
     # LoveIt NEW | 0.2.0 whether to show Hugo and theme info
-    hugo = true
+    hugo = false
     # LoveIt NEW | 0.2.0 whether to show copyright info
     copyright = true
     # LoveIt NEW | 0.2.0 whether to show the author
