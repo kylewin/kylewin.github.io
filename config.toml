@@ -8,7 +8,7 @@ languageName = "English"
 hasCJKLanguage = false
 
 # default amount of posts in each pages
-paginate = 8
+pagerSize = 8
 # google analytics code [UA-XXXXXXXX-X]
 googleAnalytics = ""
 # copyright description used only for seo schema
@@ -117,7 +117,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
   # LoveIt NEW | 0.2.0 Section (all posts) page config
   [params.section]
     # special amount of posts in each section page
-    paginate = 20
+    pagerSize = 20
     # date format (month and day)
     dateFormat = "01-02"
     # amount of RSS pages
@@ -126,7 +126,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
   # LoveIt NEW | 0.2.0 List (category or tag) page config
   [params.list]
     # special amount of posts in each list page
-    paginate = 20
+    pagerSize = 20
     # date format (month and day)
     dateFormat = "01-02"
     # amount of RSS pages
@@ -194,7 +194,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
     [params.home.posts]
       enable = true
       # special amount of posts in each home posts page
-      paginate = 6
+      pagerSize = 6
       # LoveIt DELETED | 0.2.0 replaced with hiddenFromHomePage in params.page
       # default behavior when you don't set "hiddenFromHomePage" in front matter
       defaultHiddenFromHomePage = false
