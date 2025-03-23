@@ -6,6 +6,8 @@ theme = "LoveIt"
 languageName = "English"
 # whether to include Chinese/Japanese/Korean
 hasCJKLanguage = false
+defaultContentLanguage = 'en'
+defaultContentLanguageInSubdir = true
 
 # default amount of posts in each pages
 pagerSize = 8
