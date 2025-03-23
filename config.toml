@@ -78,6 +78,10 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
   images = ["/images/logo.png"]
 
   # Header config
+  [params.author]
+    name = "Kyle Nguyen"
+    email = "nvietthu@gmail.com"
+    link = ""
   [params.header]
     # desktop header mode ["fixed", "normal", "auto"]
     desktopMode = "fixed"
