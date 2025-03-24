@@ -1,11 +1,11 @@
 ---
 title: "Setup a Terraform Module repository"
 date: 2023-09-03T16:37:29+07:00
-draft: false
+draft: true
 description: "Setup a Terraform Module repository."
 resources:
-- name: "featured-image"
-  src: "featured-image.png"
+  - name: "featured-image"
+    src: "featured-image.png"
 ---
 
 To setup a Github Repository for Terraform Modules, with auto versioning.
@@ -19,5 +19,3 @@ To setup a Github Repository for Terraform Modules, with auto versioning.
 ## Add .gitignore
 
 ## Workflow in this Repo
-
-
